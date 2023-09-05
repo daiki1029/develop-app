@@ -1,4 +1,4 @@
-#include <iosteram>
+#include <iostream>
 
 int main() {
     int a = 5;
