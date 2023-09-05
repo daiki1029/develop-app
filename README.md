@@ -1,2 +1,2 @@
 # develop-app
-first-repository
+佐藤大樹のローカルリポジトリ
